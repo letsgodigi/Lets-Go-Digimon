@@ -455,7 +455,8 @@ export default [
 	{
 		"species": "Mudfrigimon",
 		"universe": "Digimon",
-		"moves": ["Rock Tomb", "Bulldoze", "Earthquake", "Facade", "Fury Attack", "Headbutt", "Aura Sphere", "Iron Head", "Spider Web", "Poison Jab", "Smart Strike", "Metal Claw", "Force Palm", "Rapid Spin", "Blizzard", "Flash Cannon", "Leaf Storm", "Energy Ball", "Ice Beam", "Thunder", "Thunderbolt", "Protect", "Rest", "Double Team", "Endure", "Substitute", "Tail Whip", "Toxic"]},
+		"moves": ["Rock Tomb", "Bulldoze", "Earthquake", "Facade", "Fury Attack", "Headbutt", "Aura Sphere", "Iron Head", "Spider Web", "Poison Jab", "Smart Strike", "Metal Claw", "Force Palm", "Rapid Spin", "Blizzard", "Flash Cannon", "Leaf Storm", "Energy Ball", "Ice Beam", "Thunder", "Thunderbolt", "Protect", "Rest", "Double Team", "Endure", "Substitute", "Tail Whip", "Toxic"],
+	},
 	{
 		"species": "Kuwagamon",
 		"item": "X-Antibody",
